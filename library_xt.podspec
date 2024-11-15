@@ -1,4 +1,5 @@
 Pod::Spec.new do |spec|
+  spec.platform     = :ios, "13.0"
 
   # 基本信息
   spec.name         = "library_xt"
@@ -17,7 +18,5 @@ Pod::Spec.new do |spec|
 
   # 项目设置
   spec.requires_arc = true  # 如果需要 ARC，可以启用此项
-  spec.osx.deployment_target = "10.0"
-  spec.watchos.deployment_target = "2.0"
-  spec.tvos.deployment_target = "9.0"
+
 end
