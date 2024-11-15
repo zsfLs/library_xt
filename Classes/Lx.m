@@ -10,7 +10,7 @@
 @implementation Lx
 
 + (int)adds{
-    return 3;
+    return 100;
 }
 
 
