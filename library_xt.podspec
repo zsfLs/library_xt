@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.author       = { "batianhu" => "batianhu@123.com" }
   
   # Source 文件：确保路径和文件类型正确
-  spec.source_files  = "library_xt/Classes/**/*.{h,m}"
+  spec.source_files  = "Classes/**/*.{h,m}"
 
   # 指定 Git 仓库路径
   spec.source       = { :git => "https://github.com/zsfLs/library_xt.git", :tag => "#{spec.version}" }
