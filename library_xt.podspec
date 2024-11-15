@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   # 基本信息
   spec.name         = "library_xt"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of library_xt."
   spec.description  = "A more detailed description of the library_xt."
   spec.homepage     = "https://github.com/zsfLs/library_xt.git"
