@@ -2,10 +2,10 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "13.0"
 
   # 基本信息
-  spec.name         = "library_xt"
+  spec.name         = "library_vxx"
   spec.version      = "0.0.3"
-  spec.summary      = "A short description of library_xt."
-  spec.description  = "A more detailed description of the library_xt."
+  spec.summary      = "A short description of library_vxx."
+  spec.description  = "A more detailed description of the library_vxx."
   spec.homepage     = "https://github.com/zsfLs/library_xt.git"
   spec.license      = { :type => "MIT" }
   spec.author       = { "batianhu" => "batianhu@123.com" }
